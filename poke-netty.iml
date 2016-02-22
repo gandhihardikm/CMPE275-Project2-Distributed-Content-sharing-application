@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-lang-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jackson-all-1.8.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jts-1.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/junit-4.8.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bonecp-0.7.1.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/guava-13.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/h2-1.3.169.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/protobuf-java-2.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netty-all-4.0.15.Final.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/test" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/generated" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generated" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-lang-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-all-1.8.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jackson-all-1.8.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jts-1.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jts-1.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.8.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit-4.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bonecp-0.7.1.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bonecp-0.7.1.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-13.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/guava-13.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="h2-1.3.169.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/h2-1.3.169.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///Users/gash/Developer/slf4j-1.7.2/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/protobuf-java-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-all-4.0.15.Final.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netty-all-4.0.15.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
