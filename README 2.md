@@ -1,1 +1,0 @@
-# CMPE275-Project2-MOOC
